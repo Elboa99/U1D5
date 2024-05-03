@@ -1,0 +1,12 @@
+header{
+    text-align: left;
+    margin: 0;
+    background-color: black;
+}
+
+#par1{
+    text-align: center;
+    margin: 0;
+    background-color: red;
+    text-decoration-color: white;
+}
